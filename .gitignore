@@ -235,3 +235,640 @@ Call_of_Cthulhu_Spanish/Delta Green Variant
 /base.css
 /app.css
 /.vs/config/applicationhost.config
+
+# Undesired Sheets
+/13th Age Official
+/13th_Age
+/13th_Age-neovatar
+/3D&T_ALPHA
+/3DeT_ALPHA
+/5e Darker Dungeons
+/5eShaped
+/5eShaped_legacy
+/7th Sea
+/7th Sea 2e
+/Aborea
+/Achtung! Cthulhu
+/ACKS
+/ACPD
+/AD&D 2E Revised
+/AD&D_1E
+/AD&D_2E
+/Adventure Pack
+/Adventure!
+/Adventures in Middle Earth
+/AEON-Aberrant
+/Against the Dark Yogi
+/AGE System
+/Agon
+/Agone-(french)
+/Alas For The Awful Sea
+/Aliens
+/Alternity-RPG
+/Anima-Beyond-Fantasy
+/Anima-Beyond-Fantasy-French
+/Anima-Beyond-Fantasy-Spanish
+/Anime Campaign
+/Anneau Unique
+/Antika
+/approved.yaml
+/Aquelarre
+/ArcaneCodex
+/Arkham Horror
+/Ars_Magica_5th
+/AS&SH
+/Ashen_Stars
+/Atomic Highway
+/Aventures
+/AW
+/AW2E
+/Babylon 5
+/BakerStreet
+/Band of Blades
+/Barbarians Of Lemuria - Mythic
+/Barebones Fantasy RPG (00lite)
+/BASH Ultimate Edition
+/Basic Fantasy RPG
+/Basic Fantasy RPG - Expanded
+/Basic_Roleplaying
+/Battle Century G
+/BattleTech-A-Time-of-War
+/Beacon
+/BESM-3e
+/BESM3rd
+/Better-Angels
+/Beyond the Wall and Other Adventures
+/Black Crusade Advanced API
+/Black Hack
+/Black_Crusade
+/Blades in the Dark
+/Blades-in-the-Dark
+/Blue Planet V2
+/Blue Rose
+/Breakfast Cult
+/Brigandyne
+/Bulletproof Blues
+/Burn Bryte by Roll20
+/Burning Wheel
+/CahiersDuVastemonde
+/CakebreadWaltonRenaissance
+/Call_of_Cthulhu
+/Call_of_Cthulhu-PbtA
+/Call_of_Cthulhu_6th_Ed - German
+/Call_of_Cthulhu_6th_Ed_French
+/Call_of_Cthulhu_7th_Ed
+/Call_of_Cthulhu_7th_Ed - German
+/Call_of_Cthulhu_7th_Ed_Chinese_Traditional
+/Call_of_Cthulhu_7th_Ed_French
+/Call_of_Cthulhu_DA
+/Call_of_Cthulhu_Spanish
+/Capes, Cowls & Villains Foul
+/Capharnaum
+/carbon-2185-quickstart
+/Castles&Crusades
+/CdB Engine
+/Celerity
+/Cepheus Engine
+/Cerbere
+/channel fear
+/Chaos 6010
+/ChrisPerrinsMecha
+/ChroniquesGalactiques
+/ChroniquesOubliees
+/ChroniquesOublieesContemporain
+/City Of Mist Offical
+/City-of-Mist
+/Classic_Traveller
+/conan-2d20
+/Conan-2nd-Ed
+/ConspiracyX
+/Continuum
+/COPS
+/Coriolis
+/Cortex Plus Heroic
+/Cronicas-RPG
+/Cthulhu Dark
+/CthulhuTech_1ed
+/Cultos-innombrables-hitos
+/CWOD-C20
+/CWOD-Changeling
+/CWOD-DAV20
+/CWOD-Demon
+/CWOD-Exalted
+/CWOD-Hunter
+/CWOD-M20
+/CWOD-Mage
+/CWOD-V20
+/CWOD-Vampire
+/CWOD-W20
+/CWOD-Werewolf
+/CWOD-Werewolf-Rokea
+/CWOD-Wr20
+/CWorldofDarkness
+/Cyberpunk 2020
+/Cyberpunk 2k20
+/Cyberspace
+/CypherSystem
+/CypherSystemFrench
+/D&D_3-5
+/D&D_3-5 SPANISH
+/D&D_3-5-CN
+/D&D_3-5-fr
+/D&D_3-5-pt-br
+/D&D_4E
+/D&D_BECM
+/D&D_Moldvay_Natha
+/d20 Modern
+/D6StarWars
+/D6_Fantasy
+/D6_Space
+/Dark Heresy Advanced 2nd Edition
+/Dark_Heresy
+/Dark_Heresy_2ed
+/Dark_Heresy_French
+/Das_Schwarze_Auge_4-1
+/Das_Schwarze_Auge_5
+/DCC
+/DCC_Tabbed_Sheet
+/DC_Heroes_MEGS
+/Dead-of-Night
+/Deadlands Classic
+/Deathwatch
+/Degenesis
+/Delta Green
+/Delve
+/Demon Gate
+/Demon Hunters Beta
+/Der Eine Ring
+/DFRPG
+/Diaspora
+/Digital Shades
+/Dime Adventures
+/dirlist.txt
+/DnD5E Character Scrolls
+/DnDNext
+/DnDNext_Actoba
+/DnD_5e
+/DnD_5e_Chinese_Traditional
+/DnD_Moldvay_AmandatheAmazon
+/Doctor Who Adventures in Time and Space
+/Dogs-in-the-Vineyard
+/Dragon Age RPG
+/Dragon De Poche 2
+/Dragon-Age-RPG-PT-BR
+/Dragonlance 5th Age
+/DragonQuest
+/Drakar och Demoner 6.0
+/Dramasystem
+/Dreamchaser
+/DresdenFilesAccelerated
+/Dungeon World Portuguˆs
+/Dungeon-slayers-4
+/Dungeons and Delvers
+/Dungeons the Dragoning 40000 7th Edition
+/Dungeonslayers-4
+/DungeonSquad
+/DungeonWorld
+/DungeonWorldChinese
+/DungeonWorldFrench
+/DungeonWorldSpanish
+/Dungeon_World_Official
+/DutyandHonourBeattoQuarters
+/Earthdawn (FASA Official)
+/Earthdawn-4E
+/Eclipse
+/Eclipse Phase
+/Eclipse Phase Alternate
+/Eclipse Phase V2
+/Eirendor
+/El Resurgir del Drag¢n
+/Elite Dangerous Role Playing Game
+/Ellipses
+/End All Be All RPG - Roleplaying without Limits
+/EngineHeart
+/Epyllion
+/EratheConsortium
+/Exalted 3
+/Exalted2e
+/Exo 2933
+/Fairytail
+/FAITH
+/Fallout
+/Fallout (classic_pnp 2)
+/Fallout 3.5
+/Fantastic Heros & Witchery
+/Fantasy Age
+/Fantasy_Craft
+/FASATrek
+/Fate Acelerado BR
+/Fate B sico BR
+/Fate Core with rolls Deutsch
+/Fate Jadepunk BR
+/Fate Turbo with rolls Deutsch
+/Fate_Accelerated
+/Fate_Accelerated_ES
+/Fate_Accelerated_Kor
+/Fate_Accelerated_Kor_Overman_Alliance
+/Fate_Accelerated_No_Approaches
+/Fate_Core
+/Fate_Core_Chinese_Traditional
+/fate_core_with_rolls
+/fate_core_with_rolls_VF
+/Fate_Freeport
+/Fate_Jadepunk
+/Fellowship
+/Feng Shui
+/Feng-Shui-2
+/FFD20
+/FFG_End-of-the-World
+/FFRPG Third Edition
+/FFRPG Third Edition (Automated)
+/Firefly
+/FLAGS_Custom
+/Flashing_Blades
+/Fragged-Empire
+/Fragmentos
+/Free Spacer
+/Friponnes RPG
+/Fugue
+/Fuzion
+/GammaWorld1e
+/GammaWorld2e
+/GammaWorld7e
+/Genesys-RPG
+/Ghost-Ops-RPG
+/Ghostbusters
+/Ghostbusters Expanded Spanish
+/GhostLines
+/Godbound
+/Guildes QdO
+/Gumshoe Official
+/Gumshoe_TrailOfCthulhu
+/GURPS
+/GURPS_Mutonized
+/HackMaster_5E
+/Hakai Kousen
+/Halo_Mythic
+/harnmaster
+/HarnMaster3
+/Harry Potter
+/Haunted-House_Spanish
+/Hawkmoon
+/Hawkmoon_mongoose
+/Hc Svnt Dracones
+/Hellywood
+/Hero Games 6e
+/Hero Kids
+/HeroQuest
+/Heroquest_Glorantha
+/HeroSystem6e
+/Hitos
+/HollowEarthExpedition
+/Honey Heist - Simple
+/Icons Assembled
+/Icons French
+/ICRPG
+/ICRPG (Warp Shell)
+/Impulse_Drive
+/In Which We Live And Breathe
+/In-Nomine-Char-Sheet
+/Infected!
+/Infinity-2d20
+/INS-MV_5E
+/inSANe auto cal
+/Iron Kingdoms RPG
+/Ironclaw
+/Ironsworn
+/Jojo's Bizarre Tabletop
+/Karyu Densetsu
+/Kids-on-Bikes
+/kitchensink
+/Knight
+/Kobolds Ate My Baby
+/Kromore
+/Krystal (FR)
+/Kult
+/Kult Divinity Lost
+/Kuro
+/L5R
+/L5R Advanced
+/L5R Fantasy Flight Games
+/Labyrinth-Lord
+/Lady Blackbird
+/Lames du Cardinal
+/LANCER RPG
+/LANCER RPG (1.8)
+/Lasers and Feelings
+/LeaguesOfAdventures-fr
+/Legacy - Life Among the Ruins
+/Les Chants de Loss
+/Les Royaumes de Midgard
+/Leverage
+/Librete
+/LICENSE
+/Little-Fears-Nightmare-Edition
+/Log Horizon TRPG
+/Lords-Of-Gossamer-And-Shadow
+/Lost West Media
+/Lotfp
+/Low Fantasy Gaming
+/Lyceennes
+/M-Space
+/Macchiato Monsters
+/Magical_Fury
+/MAGUS_UTK
+/Maid
+/Mantel dAcier
+/Marvel Heroic Roleplaying
+/MarvelSH
+/Marvel_Saga
+/Masks - A New Generation
+/Mass Effect
+/MassEffect_5e
+/MCC_Tabbed_Sheet
+/MechaAndMonsters
+/Mekton Z
+/MERP
+/Metal Adventures
+/Metallic Guardian
+/MetamorphosisAlpha_1e
+/Michtim Fluffy Adventures
+/Microlite20
+/microluxe20
+/Mindjammer
+/Mistborn
+/Mongoose_Legend
+/Mongoose_Traveller
+/Mongoose_Traveller2e
+/Monster of the Week
+/Monsterhearts-2
+/Monsterhearts-Simple
+/Monsters and Other Childish Things
+/Mordiou
+/MorrowProject4e
+/Mortally Bankrupt
+/Mothership
+/MouseGuard
+/Multiverse
+/Mutant Year Zero Alternative
+/Mutant-year-zero
+/Mutants and Masterminds 3E
+/mutants-and-masterminds-2e-master
+/mutant_cronicles_3
+/Myriad Song
+/Mystery-of-the-Abbey
+/Mythras
+/Naheulbeuk
+/NarrativesUnlimitedD10
+/Naruto d20 Modern
+/nechronica
+/Nemesis
+/NeonSolitude
+/Neuroshima
+/New World of Darkness Official
+/Night Black Agents gumshoe
+/Night Black Agents gumshoe (FR)
+/Night Witches
+/Nightshade Academy
+/No Thank You Evil
+/NoReturn
+/Numenera
+/Numenera_NathasNumenera_English
+/Numenera_NathasNumenera_French
+/NWOD-Changeling
+/NWOD-Demon
+/NWOD-Hunter The Vigil
+/NWOD-Mage
+/NWOD-Mage2e
+/NWOD-Werewolf
+/OHET
+/OldDragon
+/Oltree-FR
+/OneDice
+/Only War
+/Open Legend Basic by Great Moustache
+/OpenLegend_Minimalist
+/Other_Dust
+/OVA
+/Over the Edge 2e
+/Palladium Megaverse
+/Palladium-Rifts
+/Paranoia
+/Paranoia_Mongoose
+/Pasts_Personas_Prophecies
+/Path of Paper
+/Pathfinder
+/Pathfinder (Old)
+/Pathfinder (Spanish)
+/Pathfinder Official
+/Pathfinder Playtest
+/Pathfinder-DE
+/Pathfinder-FR
+/Pathfinder-Neceros
+/Pathfinder_Cazra
+/pathfinder_simple
+/Pavillon Noir 2
+/Pendragon
+/Pendragon-french
+/Planet_Mercenary
+/PokemonTabletopAdventures
+/PokemonTabletopAdventures - Sun & Moon
+/PokemonTabletopUnited
+/PokemonTabletopUnitedFull
+/Pokerole
+/Polaris
+/PonytalesSheet
+/PortesMonstresTresors
+/Prophecy 2
+/Prowlers-n-Paragons
+/Psi-Punk
+/psirun
+/Qin Warring States
+/QUARTS
+/Quilk
+/Radiance
+/Raspberry Heaven
+/Rats in the Walls
+/ReachofTitan
+/Remnants
+/Reve de Dragon - french
+/revolutiond100
+/Risus Space Opera
+/Rogue_Trader
+/Rogue_Trader_fr
+/Rolemaster-Standard-System
+/Rolemaster_1E
+/RoleplayingIsMagic_4E
+/Rotted Capes
+/Runequest3
+/RunequestGQS
+/Runequest_6
+/Runequest_6_ES
+/Runequest_6_FR
+/RWBY_RoC-Unofficial_Tabletop_RPG
+/Ryuutama
+/SagaBorn
+/Sagas_Of_The_Icelanders
+/SavageWorlds
+/SavageWorlds - Fallout fan conversion
+/SavageWorlds-Tabbed
+/SavageWorldsFrench
+/Scarlet Heros
+/Scion
+/Scion2e
+/Scum - Villainy
+/Sengoku
+/Sentinel Comics RPG
+/Serenity
+/Seven Deadly Sins
+/Shaan
+/Shaan (tabbed)
+/Shadow of the Demon Lord
+/Shadowrun-Anarchy
+/Shadowrun2e
+/Shadowrun5D-german
+/Shadowrun5e
+/Shadowrun5e-Gerdofal
+/Shadowrun5th
+/Shadowrun5thEdition
+/ShadowrunAnarchy
+/Shadows of Esteren
+/Shadows Over Sol
+/Shinobi_Gami_Chinese_Traditional
+/SIG
+/Silent Legions
+/Silhouette_Core
+/Simple System
+/Solar Echoes
+/Solipstry
+/Song of Ice and Fire Roleplaying
+/Song_of_Swords
+/SpaceNinjaCyberCrisis
+/Spell_the_RPG
+/Spire
+/Splittermond
+/Spycraft_2.0
+/Spylite
+/Stalker - The SciFi Roleplaying Game
+/Star Frontiers
+/Star Frontiers 2
+/Star Marx
+/Star Trek Adventures 2d20
+/Star Trek Adventures Official
+/Star Wars 30th Anniversary Edition
+/Star Wars Edge of the Empire
+/Star Wars EotEmpire_Dice - FR
+/Star Wars FFG API-Compatible
+/Star Wars Revised RPG
+/Star Wars Saga Edition
+/Starcraft RPG
+/Starfinder (simple)
+/Starfinder HUD
+/Starfinder Official
+/Stargate Coalition
+/StargateSG-1
+/Stars_Without_Number
+/Stars_Without_Number_Revised
+/StarWars5E
+/StarWarsEdgeOfTheEmpire_Dice
+/Stormbringer
+/StraightToVHS
+/Strain
+/Streets_of_Marienburg
+/Street_Fighter-neovatar
+/Strike!
+/Supersix
+/Svavelvinter
+/Sword & Scoundrel
+/Swords_&_Wizardry
+/Swords_&_Wizardry Spanish
+/Symbaroum
+/Tagmar
+/TailsOfEquestria
+/Tales from the Loop
+/Tavern-Tales
+/Technoir
+/Tenra Bansho Zero
+/Tephra
+/Terra-X
+/Terre 2
+/Terror Infinity
+/Tesoro y Gloria
+/Thalya
+/The ADVANCED Pandemonium
+/The Black Company
+/The Bureau
+/The Fade Tabletop 2e Sheet
+/The God Machine Chronicle (nWoD)
+/The Laundry
+/The Mutant Epoch
+/The One Ring
+/The Sprawl
+/The Strange
+/The Veil
+/The Witcher
+/The-Fade-Tabletop
+/the-void
+/TheStrangeMultiRecursion
+/TheWitcher
+/The_Sprawl
+/This_Is_Not_A_Test
+/tigres_volants
+/TIH
+/Tiny
+/Titansgrave
+/Titan_World-Unofficial_Attack_on_Titan_RPG
+/Toon
+/Top Secret
+/Torchbearer
+/Torg
+/Torg Eternity
+/TormentaRPG
+/TormentaRPG-PDF_Based
+/TormentaRPG_Tabbed
+/Trail of Cthulhu
+/Trail of Cthulhu (spanish)
+/Trail of Cthulhu_french
+/Tri-Stat
+/Trollbabe
+/Trudvang Chronicles
+/True20
+/Twilight-2000-v2.2
+/Uncharted Worlds
+/Undying
+/Unisystem-All Flesh Must Be Eaten
+/Unisystem-Buffy or Angel
+/Unknown Armies 3e
+/UnknownArmies
+/UnknownPonies
+/UnofficialElderScrollsRPG
+/Urban_Shadows
+/Valor
+/Vampire the Requiem
+/vampire-v5
+/Victoriana 2ed
+/Vieja-escuela
+/Villains and Vigilantes
+/Warhammer-Fantasy-Roleplay-2nd-Edition
+/Warhammer40k-WrathandGlory
+/Warhammer40KWrathNGlory
+/Warhammer_v2_french
+/Weaverdice
+/WerewolfTheForsaken2e
+/WFRP-2nd-Ed
+/WFRP2E-Havoc
+/wfrp3e
+/wfrp3e-French
+/WFRP4CharSheet
+/White Star
+/WhiteLies
+/Witch_Hunter_2e
+/WODVtM5eAlpha
+/WOIN
+/World-of-Dungeons
+/Wrath and Glory API
+/Wurm
+/Xeohelios' Fire Emblem Tabletop
+/Yatzoid
+/Yogsquest
+/Zweihänder Grim & Perilous
